@@ -17,11 +17,6 @@ This repository documents the fundamental flow from **software** (high-level pro
 
 ---
 
-## 🔄 Flow: Software to Hardware
-
-
----
-
 ## 🖥️ Operating System (OS)
 
 **Examples**: Windows, Linux, macOS
@@ -61,10 +56,7 @@ This repository documents the fundamental flow from **software** (high-level pro
 
 ---
 
-## 🛠️ RTL to GDSII (Hardware Flow)
 
-
----
 
 ## 📦 Hardware Description Language (HDL)
 
@@ -73,10 +65,6 @@ This repository documents the fundamental flow from **software** (high-level pro
 
 ---
 
-## 🔄 Overall Software to Hardware Flow
-
-
----
 
 ## ✨ Summary
 
@@ -84,8 +72,3 @@ This README explains how a program written in a high-level language is ultimatel
 
 ---
 
-## 📘 References
-
-- [RISC-V ISA on Wikipedia](https://en.wikipedia.org/wiki/RISC-V)
-- [GNU Compiler Collection](https://gcc.gnu.org/)
-- [Verilog HDL Tutorial](https://www.asic-world.com/verilog/index.html)
